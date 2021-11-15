@@ -1,8 +1,7 @@
 ***cats wit lazas***
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLasercatBand%2F&psig=AOvVaw2ZMtIAJoTRvDNm3_cT6fWd&ust=1637077626805000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNjRg8bbmvQCFQAAAAAdAAAAABAD" width="350" title="hover text">
+<p align="left">
+  <img src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.18169-9/27332681_345882349242371_5153689901900124195_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=973b4a&_nc_ohc=WB-VU0TWL4UAX8Yangk&_nc_ht=scontent-lga3-1.xx&oh=884e0bb32934ba8cd58ddc8cb07150ad&oe=61B827E6" width="350" title="hover text">
 </p>
-<img</img>
 
 **linux/unix** enthusist 
 
